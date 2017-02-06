@@ -2,6 +2,7 @@
 United collection of hybrid  Central solvers - one-phase, two-phase and multicomponent versions.
 
 Latest OpenFOAM version: 4.1
+OpenFOAM-dev checked with commit f5b91be 6-Feb-17. Note OpenFOAM 4.1 tutorials work with OpenFOAM-dev as of commit f5b91be.
 
 1. **pimpleCentralFoam** - Pressure-based semi implicit compressible flow solver based on central-upwind schemes of
 Kurganov and Tadmor with LTS support for steady-state calculations
