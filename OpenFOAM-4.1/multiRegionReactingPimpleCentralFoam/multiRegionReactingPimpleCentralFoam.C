@@ -29,7 +29,7 @@ Description
     -upwind schemes of Kurganov and Tadmor for combustion with chemical 
     reactions and LTS support for steady-state calculations
     
-    MultiRegoin version includes solid heat conduction with conjugate heat 
+    MultiRegion version includes solid heat conduction with conjugate heat 
     transfer between solid and fluid regions. It handles secondary fluid or 
     solid circuits which can be coupled thermally with the main fluid region. 
     i.e radiators, etc.
