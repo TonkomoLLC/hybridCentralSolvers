@@ -6,6 +6,8 @@ cd pimpleCentralFoam; ./Allwclean; cd ../
 
 cd reactingPimpleCentralFoam; ./Allwclean; cd ../
 
+cd multiRegionReactingPimpleCentralFoam; ./Allwclean; cd ../
+
 #cd twoPhaseMixingCentralFoam; wclean;
 #cd twoPhaseMixingCentralDyMFoam; wclean; cd ../../
 
