@@ -13,5 +13,5 @@ Kurganov and Tadmor with mesh motion and LTS support for steady-state calculatio
 Kurganov and Tadmor for combustion with chemical reactions and LTS support for steady-state calculations
 
 4. **multiRegionReactingPimpleCentralFoam** - Pressure-based semi implicit compressible flow solver based on central-upwind
-schemes of Kurganov and Tadmor for combustion with chemical reactions and LTS support for steady-state calculations.  
-MultiRegion version includes solid heat conduction with conjugate heat transfer between solid and fluid regions.
+schemes of Kurganov and Tadmor for combustion with chemical reactions and LTS support for steady-state calculations. Multi-
+Region version includes solid heat conduction with conjugate heat transfer between solid and fluid regions.
